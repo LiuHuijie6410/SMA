@@ -189,12 +189,12 @@
 
 <table style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <tr>
-    <td style="text-align:center; width:14.6%;"><b>Reference</b></td>
-    <td style="text-align:center; width:16.6%;"><b>Baseline[1]</b></td>
-    <td style="text-align:center; width:16.6%;"><b>Ours</b></td>
-    <td style="text-align:center; width:14.6%;"><b>Reference</b></td>
-    <td style="text-align:center; width:16.6%;"><b>Baseline[1]</b></td>
-    <td style="text-align:center; width:16.6%;"><b>Ours</b></td>
+    <td style="text-align:center; width:16.6%;" colspan="1"><b>Reference</b></td>
+    <td style="text-align:center; width:16.6%;" colspan="1"><b>Baseline[1]</b></td>
+    <td style="text-align:center; width:16.6%;" colspan="1"><b>Ours</b></td>
+    <td style="text-align:center; width:16.6%;" colspan="1"><b>Reference</b></td>
+    <td style="text-align:center; width:16.6%;" colspan="1"><b>Baseline[1]</b></td>
+    <td style="text-align:center; width:16.6%;" colspan="1"><b>Ours</b></td>
   </tr>
   <tr>
     <td><img src="assets/golf/output.gif" style="max-width:90px"></td>
