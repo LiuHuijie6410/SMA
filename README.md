@@ -187,30 +187,38 @@
 
 ## Comparisions to Baseline
 
-<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
+<table style="width:100%; table-layout:fixed; border-collapse:collapse; border:1px solid #ccc;">
+  <colgroup>
+    <col style="width:16.6%;">
+    <col style="width:16.6%;">
+    <col style="width:16.6%;">
+    <col style="width:16.6%;">
+    <col style="width:16.6%;">
+    <col style="width:16.6%;">
+  </colgroup>
   <tr>
-    <td style="text-align:center; width:16.6%;" colspan="1"><b>Reference</b></td>
-    <td style="text-align:center; width:16.6%;" colspan="1"><b>Baseline[1]</b></td>
-    <td style="text-align:center; width:16.6%;" colspan="1"><b>Ours</b></td>
-    <td style="text-align:center; width:16.6%;" colspan="1"><b>Reference</b></td>
-    <td style="text-align:center; width:16.6%;" colspan="1"><b>Baseline[1]</b></td>
-    <td style="text-align:center; width:16.6%;" colspan="1"><b>Ours</b></td>
+    <td style="text-align:center;" colspan="1"><b>Reference</b></td>
+    <td style="text-align:center;" colspan="1"><b>Baseline[1]</b></td>
+    <td style="text-align:center;" colspan="1"><b>Ours</b></td>
+    <td style="text-align:center;" colspan="1"><b>Reference</b></td>
+    <td style="text-align:center;" colspan="1"><b>Baseline[1]</b></td>
+    <td style="text-align:center;" colspan="1"><b>Ours</b></td>
   </tr>
   <tr>
-    <td><img src="assets/golf/output.gif" ></td>
-    <td><img src="assets/md/monkey.gif"></td>
-    <td><img src="assets/golf/A_monkey_is_playing_golf_on_a_field_full_of_flowers.gif"></td>
-    <td><img src="assets/ori16frames/sharks-swimming.gif"></td>
-    <td><img src="assets/md/Two_sea_dragons_swim_in_the_blue_ocean_on_a_coral_reef_0_300.gif"></td>
-    <td><img src="assets/oneshot/sea-dragon.gif"></td>
+    <td style="text-align:center;"><img src="assets/golf/output.gif" style="width:100%; height:auto;"></td>
+    <td style="text-align:center;"><img src="assets/md/monkey.gif" style="width:100%; height:auto;"></td>
+    <td style="text-align:center;"><img src="assets/golf/A_monkey_is_playing_golf_on_a_field_full_of_flowers.gif" style="width:100%; height:auto;"></td>
+    <td style="text-align:center;"><img src="assets/ori16frames/sharks-swimming.gif" style="width:100%; height:auto;"></td>
+    <td style="text-align:center;"><img src="assets/md/Two_sea_dragons_swim_in_the_blue_ocean_on_a_coral_reef_0_300.gif" style="width:100%; height:auto;"></td>
+    <td style="text-align:center;"><img src="assets/oneshot/sea-dragon.gif" style="width:100%; height:auto;"></td>
   </tr>
   <tr>
-    <td style="text-align:center; width:16.6%; color:gray;">"A person is walking."</td>
-    <td style="text-align:center; width:16.6%;">"A teddy bear is walking in Times Square New York."</td>
-    <td style="text-align:center; width:16.6%;">"A teddy bear is walking in Times Square New York."</td>
-    <td style="text-align:center; width:16.6%; color:gray;">"A person is walking."</td>
-    <td style="text-align:center; width:16.6%;">"A teddy bear is walking in Times Square New York."</td>
-    <td style="text-align:center; width:16.6%;">"A teddy bear is walking in Times Square New York."</td>
+    <td style="text-align:center; color:gray;">"A person is walking."</td>
+    <td style="text-align:center;">"A teddy bear is walking in Times Square New York."</td>
+    <td style="text-align:center;">"A teddy bear is walking in Times Square New York."</td>
+    <td style="text-align:center; color:gray;">"A person is walking."</td>
+    <td style="text-align:center;">"A teddy bear is walking in Times Square New York."</td>
+    <td style="text-align:center;">"A teddy bear is walking in Times Square New York."</td>
   </tr>
 
 
