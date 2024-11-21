@@ -244,7 +244,7 @@
 
   <tr>
     <td><img src="assets/walk/output.gif" ></td>
-    <td><img src="assets/md/walk.gif" style="width:80px; height:80px;"></td>
+    <td><img src="assets/md/walk.gif" style="width:100px; height:100px;"></td>
     <td><img src="assets/walk/A_teddy_bear_is_walking_in_Times_Square_New_York.gif"></td>
     <td><img src="assets/ori16frames/eating-pizza.gif"></td>
     <td><img src="assets/md/eatting-pizza.gif" style="width:80px; height:80px;"></td>
