@@ -189,10 +189,10 @@
 
 <table style="table-layout:fixed; border-collapse:collapse;">
   <tr>
-    <td style="text-align:center;"><b>Reference Videos</b></td>
+    <td style="text-align:center;"><b>Reference</b></td>
     <td style="text-align:center;"><b>Baseline[1]</b></td>
     <td style="text-align:center;"><b>Ours</b></td>
-    <td style="text-align:center;"><b>Reference Videos</b></td>
+    <td style="text-align:center;"><b>Reference</b></td>
     <td style="text-align:center;"><b>Baseline[1]</b></td>
     <td style="text-align:center;"><b>Ours</b></td>
   </tr>
@@ -216,10 +216,10 @@
 
 
   <tr>
-    <td style="text-align:center;"><b>Reference Videos</b></td>
+    <td style="text-align:center;"><b>Reference</b></td>
     <td style="text-align:center;"><b>Baseline[1]</b></td>
     <td style="text-align:center;"><b>Ours</b></td>
-    <td style="text-align:center;"><b>Reference Videos</b></td>
+    <td style="text-align:center;"><b>Reference</b></td>
     <td style="text-align:center;"><b>Baseline[1]</b></td>
     <td style="text-align:center;"><b>Ours</b></td>
   </tr>
@@ -264,3 +264,37 @@
 
 ## Reference
 [1] Rui Zhao, Yuchao Gu, Jay Zhangjie Wu, David Junhao Zhang, Jia-Wei Liu, Weijia Wu, Jussi Keppo, and Mike Zheng Shou. Baseline: Motion customization of text-to-video diffusion models. In European Conference on Computer Vision, pages. Springer, 2025.
+
+
+
+
+
+## Customization on Cinematic Shots
+<table class="center"> 
+  <tr>
+    <td style="text-align:center;"><b>Reference</b></td>
+    <td style="text-align:center;"><b>Baseline[1]</b></td>
+    <td style="text-align:center;"><b>Ours</b></td>
+    <td style="text-align:center;"><b>Reference</b></td>
+    <td style="text-align:center;"><b>Baseline[1]</b></td>
+    <td style="text-align:center;"><b>Ours</b></td>
+  </tr>
+<tr>
+  <td><img src=assets/zoom_in/output.gif></td>
+  <td><img src=assets/zoom_in/A_wolf_standing_on_a_snowy_mountain_captured_with_a_zoom_in.gif></td>
+  <td><img src=assets/zoom_in/An_eagle_standing_on_the_edge_of_a_cliff_captured_with_a_zoom_in.gif></td>
+  <td><img src=assets/zoom_in/A_wizard_standing_in_a_mysterious_forest__captured_with_a_zoom_in.gif></td>
+src=assets/zoom_in/An_eagle_standing_on_the_edge_of_a_cliff_captured_with_a_zoom_in.gif></td>
+  <td><img src=assets/zoom_in/A_wizard_standing_in_a_mysterious_forest__captured_with_a_zoom_in.gif></td>
+    <td><img src=assets/zoom_in/A_wizard_standing_in_a_mysterious_forest__captured_with_a_zoom_in.gif></td>
+</tr>
+<tr>
+  <td width=16% style="text-align:center;color:gray;">"A cup in a lab captured with a zoom in."</td>
+  <td width=16% style="text-align:center;">"A wolf standing on a snowy mountain captured with a zoom in."
+  <td width=16% style="text-align:center;">"An eagle standing on the edge of a cliff captured with a zoom in."
+  <td width=16% style="text-align:center;">"A wizard standing in a mysterious forest captured with a zoom in." 
+  <td width=16% style="text-align:center;">"A wizard standing in a mysterious forest captured with a zoom in." 
+  <td width=16% style="text-align:center;">"A wizard standing in a mysterious forest captured with a zoom in." 
+</tr>
+
+</table>
