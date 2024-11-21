@@ -234,10 +234,10 @@
   </tr>
   <tr>
     <td><img src="assets/skate/output.gif" ></td>
-    <td><img src="assets/md/A_robot_is_skateboarding_in_a_cyberpunk_city.gif" style="width:100px; height:100px;"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/md/A_robot_is_skateboarding_in_a_cyberpunk_city.gif" style="width:100px; height:100px;"></td>
     <td><img src="assets/skate/A_robot_is_skateboarding_in_a_cyberpunk_city_front_view.gif"></td>
     <td><img src="assets/ori16frames/ship-sailing.gif"></td>
-    <td><img src="assets/md/island.gif" style="width:100px; height:100px;"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/md/island.gif" style="width:100px; height:100px;"></td>
     <td><img src="assets/oneshot/island.gif"></td>
   </tr>
   <tr>
@@ -252,10 +252,10 @@
 
   <tr>
     <td><img src="assets/walk/output.gif" ></td>
-    <td><img src="assets/md/walk.gif" style="width:100px; height:100px;"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/md/walk.gif" style="width:100px; height:100px;"></td>
     <td><img src="assets/walk/A_teddy_bear_is_walking_in_Times_Square_New_York.gif"></td>
     <td><img src="assets/ori16frames/eating-pizza.gif"></td>
-    <td><img src="assets/md/eatting-pizza.gif" style="width:100px; height:100px;"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/md/eatting-pizza.gif" style="width:100px; height:100px;"></td>
     <td><img src="assets/oneshot/A_woman_is_eating_a_sandwich_with_various_toppings.gif"></td>
   </tr>
   <tr>
