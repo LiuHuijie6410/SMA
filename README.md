@@ -12,10 +12,10 @@
   <td style="text-align:center;" colspan="3"><b>Edited Videos</b></td>
 </tr>
 <tr>
-  <td><img src=assets/walk/output.gif></td>
-  <td><img src=assets/walk/A_cowboy_is_walking_in_the_wild_west.gif></td>
-  <td><img src=assets/walk/A_robot_is_walking_in_a_cyberpunk_city.gif></td>
-  <td><img src=assets/walk/A_wizard_is_walking_in_a_mystical_forest.gif></td>
+  <td style="text-align:center;"><img src=assets/walk/output.gif></td>
+  <td style="text-align:center;"><img src=assets/walk/A_cowboy_is_walking_in_the_wild_west.gif></td>
+  <td style="text-align:center;"><img src=assets/walk/A_robot_is_walking_in_a_cyberpunk_city.gif></td>
+  <td style="text-align:center;"><img src=assets/walk/A_wizard_is_walking_in_a_mystical_forest.gif></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A person is walking."</td>
@@ -24,10 +24,10 @@
   <td width=25% style="text-align:center;">"A wizard is walking in a_ mystical forest." 
 </tr>
 <tr>
-  <td><img src=assets/bike/output.gif></td>
-  <td><img src=assets/bike/A_panda_is_riding_bicycle_in_a_garden.gif></td>
-  <td><img src=assets/bike/A_girl_is_riding_a_bicycle_in_a_country_road.gif></td>
-  <td><img src=assets/bike/Iron_Man_is_riding_a_bicycle_in_a_city.gif></td>
+  <td style="text-align:center;"><img src=assets/bike/output.gif></td>
+  <td style="text-align:center;"><img src=assets/bike/A_panda_is_riding_bicycle_in_a_garden.gif></td>
+  <td style="text-align:center;"><img src=assets/bike/A_girl_is_riding_a_bicycle_in_a_country_road.gif></td>
+  <td style="text-align:center;"><img src=assets/bike/Iron_Man_is_riding_a_bicycle_in_a_city.gif></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A person is riding a bicycle."</td>
@@ -36,10 +36,10 @@
   <td width=25% style="text-align:center;">"Iron Man is riding a bicycle in a city."
 </tr>
 <tr>
-  <td><img src=assets/skate/output.gif></td>
-  <td><img src=assets/skate/An_astronaut_is_skateboarding_on_Mars.gif></td>
-  <td><img src=assets/skate/A_teddy_bear_skateboarding_in_Times_Square_New_York.gif></td>
-  <td><img src=assets/skate/A_robot_is_skateboarding_in_a_cyberpunk_city_front_view.gif></td>
+  <td style="text-align:center;"><img src=assets/skate/output.gif></td>
+  <td style="text-align:center;"><img src=assets/skate/An_astronaut_is_skateboarding_on_Mars.gif></td>
+  <td style="text-align:center;"><img src=assets/skate/A_teddy_bear_skateboarding_in_Times_Square_New_York.gif></td>
+  <td style="text-align:center;"><img src=assets/skate/A_robot_is_skateboarding_in_a_cyberpunk_city_front_view.gif></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A person is skateboarding."</td>
@@ -48,10 +48,10 @@
   <td width=25% style="text-align:center;">"A robot is skateboarding in a cyberpunk city."
 </tr>
 <tr>
-  <td><img src=assets/golf/output.gif></td>
-  <td><img src=assets/golf/A_monkey_is_playing_golf_on_a_field_full_of_flowers.gif></td>
-  <td><img src=assets/golf/A_bear_is_playing_golf_in_a_garden_front_view.gif></td>
-  <td><img src=assets/golf/Iron_Man_is_playing_golf_in_the_square.gif></td>
+  <td style="text-align:center;"><img src=assets/golf/output.gif></td>
+  <td style="text-align:center;"><img src=assets/golf/A_monkey_is_playing_golf_on_a_field_full_of_flowers.gif></td>
+  <td style="text-align:center;"><img src=assets/golf/A_bear_is_playing_golf_in_a_garden_front_view.gif></td>
+  <td style="text-align:center;"><img src=assets/golf/Iron_Man_is_playing_golf_in_the_square.gif></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A monkey is playing golf on a field full of flowers."</td>
@@ -71,10 +71,10 @@
   <td style="text-align:center;" colspan="3"><b>Edited Videos</b></td>
 </tr>
 <tr>
-  <td><img src=assets/zoom_in/output.gif></td>
-  <td><img src=assets/zoom_in/A_wolf_standing_on_a_snowy_mountain_captured_with_a_zoom_in.gif></td>
-  <td><img src=assets/zoom_in/An_eagle_standing_on_the_edge_of_a_cliff_captured_with_a_zoom_in.gif></td>
-  <td><img src=assets/zoom_in/A_wizard_standing_in_a_mysterious_forest__captured_with_a_zoom_in.gif></td>
+  <td style="text-align:center;"><img src=assets/zoom_in/output.gif></td>
+  <td style="text-align:center;"><img src=assets/zoom_in/A_wolf_standing_on_a_snowy_mountain_captured_with_a_zoom_in.gif></td>
+  <td style="text-align:center;"><img src=assets/zoom_in/An_eagle_standing_on_the_edge_of_a_cliff_captured_with_a_zoom_in.gif></td>
+  <td style="text-align:center;"><img src=assets/zoom_in/A_wizard_standing_in_a_mysterious_forest__captured_with_a_zoom_in.gif></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A cup in a lab captured with a zoom in."</td>
@@ -87,10 +87,10 @@
   <td style="text-align:center;" colspan="3"><b>Edited Videos</b></td>
 </tr>
 <tr>
-  <td><img src=assets/zomm_out/zoom_out_16.gif></td>
-  <td><img src=assets/zomm_out/A_wolf_standing_on_a_snowy_mountain_captured_with_a_dolly_zoom_24_400_0.1.gif></td>
-  <td><img src=assets/zomm_out/An_eagle_standing_on_the_edge_of_a_cliff_captured_with_a_zoom_out_3_400_0.1.gif></td>
-  <td><img src=assets/zomm_out/A_wizard_standing_in_a_mysterious_forest__captured_with_a_zoom_out_48_600_0.1.gif></td>
+  <td style="text-align:center;"><img src=assets/zomm_out/zoom_out_16.gif></td>
+  <td style="text-align:center;"><img src=assets/zomm_out/A_wolf_standing_on_a_snowy_mountain_captured_with_a_dolly_zoom_24_400_0.1.gif></td>
+  <td style="text-align:center;"><img src=assets/zomm_out/An_eagle_standing_on_the_edge_of_a_cliff_captured_with_a_zoom_out_3_400_0.1.gif></td>
+  <td style="text-align:center;"><img src=assets/zomm_out/A_wizard_standing_in_a_mysterious_forest__captured_with_a_zoom_out_48_600_0.1.gif></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A man standing in room captured with a zoom out."</td>
@@ -103,10 +103,10 @@
   <td style="text-align:center;" colspan="3"><b>Edited Videos</b></td>
 </tr>
 <tr>
-  <td><img src=assets/dolly/dolly_zoom.gif></td>
-  <td><img src=assets/dolly/A_wolf_standing_on_a_snowy_mountain_captured_with_a_dolly_zoom.gif></td>
-  <td><img src=assets/dolly/An_eagle_standing_on_the_edge_of_a_cliff_captured_with_a_dolly_zoom.gif></td>
-  <td><img src=assets/dolly/A_wizard_standing_in_a_mysterious_forest__captured_with_a_dolly_zoom.gif></td>
+  <td style="text-align:center;"><img src=assets/dolly/dolly_zoom.gif></td>
+  <td style="text-align:center;"><img src=assets/dolly/A_wolf_standing_on_a_snowy_mountain_captured_with_a_dolly_zoom.gif></td>
+  <td style="text-align:center;"><img src=assets/dolly/An_eagle_standing_on_the_edge_of_a_cliff_captured_with_a_dolly_zoom.gif></td>
+  <td style="text-align:center;"><img src=assets/dolly/A_wizard_standing_in_a_mysterious_forest__captured_with_a_dolly_zoom.gif></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A cup in a lab captured with a dolly zoom."</td>
@@ -127,10 +127,10 @@
   <td style="text-align:center;" colspan="3"><b>Edited Videos</b></td>
 </tr>
 <tr>
-  <td><img src=assets/car-turn/car-turn.gif></td>
-  <td><img src=assets/car-turn/A_horse_is_running_in_a_forest.gif></td>
-  <td><img src=assets/car-turn/A_tank_is_running_on_the_road.gif></td>
-  <td><img src=assets/car-turn/A_dog_is_running_in_a_garden.gif></td>
+  <td style="text-align:center;"><img src=assets/car-turn/car-turn.gif></td>
+  <td style="text-align:center;"><img src=assets/car-turn/A_horse_is_running_in_a_forest.gif></td>
+  <td style="text-align:center;"><img src=assets/car-turn/A_tank_is_running_on_the_road.gif></td>
+  <td style="text-align:center;"><img src=assets/car-turn/A_dog_is_running_in_a_garden.gif></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A car is running on the road."</td>
@@ -145,10 +145,10 @@
   <td style="text-align:center;" colspan="1"><b>Edited Videos</b></td>
 </tr>
 <tr>
-  <td><img src=assets/ori16frames/ship-sailing.gif></td>
-  <td><img src=assets/oneshot/island.gif></td>
-  <td><img src=assets/ori16frames/sharks-swimming.gif></td>
-  <td><img src=assets/oneshot/sea-dragon.gif></td>
+  <td style="text-align:center;"><img src=assets/ori16frames/ship-sailing.gif></td>
+  <td style="text-align:center;"><img src=assets/oneshot/island.gif></td>
+  <td style="text-align:center;"><img src=assets/ori16frames/sharks-swimming.gif></td>
+  <td style="text-align:center;"><img src=assets/oneshot/sea-dragon.gif></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A ship sails on the sea during sunset."</td>
@@ -164,10 +164,10 @@
   <td style="text-align:center;" colspan="1"><b>Edited Videos</b></td>
 </tr>
 <tr>
-  <td><img src=assets/ori16frames/surfer-on-wave.gif></td>
-  <td><img src=assets/oneshot/A_bear_is_surfing_inside_the_barrel_of_a_wave.gif></td>
-  <td><img src=assets/ori16frames/eating-pizza.gif></td>
-  <td><img src=assets/oneshot/A_woman_is_eating_a_sandwich_with_various_toppings.gif></td>
+  <td style="text-align:center;"><img src=assets/ori16frames/surfer-on-wave.gif></td>
+  <td style="text-align:center;"><img src=assets/oneshot/A_bear_is_surfing_inside_the_barrel_of_a_wave.gif></td>
+  <td style="text-align:center;"><img src=assets/ori16frames/eating-pizza.gif></td>
+  <td style="text-align:center;"><img src=assets/oneshot/A_woman_is_eating_a_sandwich_with_various_toppings.gif></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A man is surfing inside the barrel of a wave."</td>
@@ -206,10 +206,10 @@
   </tr>
   <tr>
     <td style="text-align:center;"><img src="assets/golf/output.gif" style="width:100%; height:auto;"></td>
-    <td style="text-align:center;"><img src="assets/md/monkey.gif" style="width:100px; height:100px;"></td>
+    <td style="text-align:center;"><img src="assets/md/monkey.gif" style="width:100%; height:auto;"></td>
     <td style="text-align:center;"><img src="assets/golf/A_monkey_is_playing_golf_on_a_field_full_of_flowers.gif" style="width:100%; height:auto;"></td>
-    <td style="text-align:center;"><img src="assets/ori16frames/sharks-swimming.gif" style="width:100px; height:100px;"></td>
-    <td style="text-align:center;"><img src="assets/md/Two_sea_dragons_swim_in_the_blue_ocean_on_a_coral_reef_0_300.gif" style="width:100px; height:100px;"></td>
+    <td style="text-align:center;"><img src="assets/ori16frames/sharks-swimming.gif" style="width:100%; height:auto;"></td>
+    <td style="text-align:center;"><img src="assets/md/Two_sea_dragons_swim_in_the_blue_ocean_on_a_coral_reef_0_300.gif" style="width:100%; height:auto;"></td>
     <td style="text-align:center;"><img src="assets/oneshot/sea-dragon.gif" style="width:100%; height:auto;"></td>
   </tr>
   <tr>
@@ -233,12 +233,12 @@
     <td style="text-align:center; width:16.6%;"><b>Ours</b></td>
   </tr>
   <tr>
-    <td><img src="assets/skate/output.gif" ></td>
-    <td style="text-align:center; width:16.6%;"><img src="assets/md/A_robot_is_skateboarding_in_a_cyberpunk_city.gif" style="width:100px; height:100px;"></td>
-    <td><img src="assets/skate/A_robot_is_skateboarding_in_a_cyberpunk_city_front_view.gif"></td>
-    <td><img src="assets/ori16frames/ship-sailing.gif"></td>
-    <td style="text-align:center; width:16.6%;"><img src="assets/md/island.gif" style="width:100px; height:100px;"></td>
-    <td><img src="assets/oneshot/island.gif"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/skate/output.gif" ></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/md/A_robot_is_skateboarding_in_a_cyberpunk_city.gif" style="width:100%; height:auto;"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/skate/A_robot_is_skateboarding_in_a_cyberpunk_city_front_view.gif"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/ori16frames/ship-sailing.gif"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/md/island.gif" style="width:100%; height:auto;"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/oneshot/island.gif"></td>
   </tr>
   <tr>
     <td style="text-align:center; width:16.6%; color:gray;">"A person is walking."</td>
@@ -251,12 +251,12 @@
 
 
   <tr>
-    <td><img src="assets/walk/output.gif" ></td>
-    <td style="text-align:center; width:16.6%;"><img src="assets/md/walk.gif" style="width:100px; height:100px;"></td>
-    <td><img src="assets/walk/A_teddy_bear_is_walking_in_Times_Square_New_York.gif"></td>
-    <td><img src="assets/ori16frames/eating-pizza.gif"></td>
-    <td style="text-align:center; width:16.6%;"><img src="assets/md/eatting-pizza.gif" style="width:100px; height:100px;"></td>
-    <td><img src="assets/oneshot/A_woman_is_eating_a_sandwich_with_various_toppings.gif"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/walk/output.gif" ></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/md/walk.gif" style="width:100%; height:auto;"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/walk/A_teddy_bear_is_walking_in_Times_Square_New_York.gif"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/ori16frames/eating-pizza.gif"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/md/eatting-pizza.gif" style="width:100%; height:auto;"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/oneshot/A_woman_is_eating_a_sandwich_with_various_toppings.gif"></td>
   </tr>
   <tr>
     <td style="text-align:center; width:16.6%; color:gray;">"A person is walking."</td>
