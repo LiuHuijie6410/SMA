@@ -189,10 +189,10 @@
 
 <table style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <tr>
-    <td style="text-align:center; width:16.6%;"><b>Reference Videos</b></td>
+    <td style="text-align:center; width:16.6%;"><b>Reference</b></td>
     <td style="text-align:center; width:16.6%;"><b>Baseline[1]</b></td>
     <td style="text-align:center; width:16.6%;"><b>Ours</b></td>
-    <td style="text-align:center; width:16.6%;"><b>Reference Videos</b></td>
+    <td style="text-align:center; width:16.6%;"><b>Reference</b></td>
     <td style="text-align:center; width:16.6%;"><b>Baseline[1]</b></td>
     <td style="text-align:center; width:16.6%;"><b>Ours</b></td>
   </tr>
@@ -200,7 +200,7 @@
     <td><img src="assets/golf/output.gif"></td>
     <td><img src="assets/md/monkey.gif"></td>
     <td><img src="assets/golf/A_monkey_is_playing_golf_on_a_field_full_of_flowers.gif"></td>
-    <td><img src="assets/ori16frames/sharks-swimming.gif"></td>
+    <td><img width=100% src="assets/ori16frames/sharks-swimming.gif"></td>
     <td><img src="assets/md/Two_sea_dragons_swim_in_the_blue_ocean_on_a_coral_reef_0_300.gif"></td>
     <td><img src="assets/oneshot/sea-dragon.gif"></td>
   </tr>
@@ -215,11 +215,12 @@
 
 
 
+
   <tr>
-    <td style="text-align:center; width:16.6%;"><b>Reference Videos</b></td>
+    <td style="text-align:center; width:16.6%;"><b>Reference</b></td>
     <td style="text-align:center; width:16.6%;"><b>Baseline[1]</b></td>
     <td style="text-align:center; width:16.6%;"><b>Ours</b></td>
-    <td style="text-align:center; width:16.6%;"><b>Reference Videos</b></td>
+    <td style="text-align:center; width:16.6%;"><b>Reference</b></td>
     <td style="text-align:center; width:16.6%;"><b>Baseline[1]</b></td>
     <td style="text-align:center; width:16.6%;"><b>Ours</b></td>
   </tr>
