@@ -209,7 +209,7 @@
     <td style="text-align:center;"><img src="assets/md/monkey.gif" style="width:100px; height:100px;"></td>
     <td style="text-align:center;"><img src="assets/golf/A_monkey_is_playing_golf_on_a_field_full_of_flowers.gif" style="width:100%; height:auto;"></td>
     <td style="text-align:center;"><img src="assets/ori16frames/sharks-swimming.gif" style="width:100px; height:100px;"></td>
-    <td style="text-align:center;"><img src="assets/md/Two_sea_dragons_swim_in_the_blue_ocean_on_a_coral_reef_0_300.gif" style="width:100%; height:auto;"></td>
+    <td style="text-align:center;"><img src="assets/md/Two_sea_dragons_swim_in_the_blue_ocean_on_a_coral_reef_0_300.gif" style="width:100px; height:100px;"></td>
     <td style="text-align:center;"><img src="assets/oneshot/sea-dragon.gif" style="width:100%; height:auto;"></td>
   </tr>
   <tr>
@@ -234,7 +234,7 @@
   </tr>
   <tr>
     <td><img src="assets/skate/output.gif" ></td>
-    <td><img src="assets/md/A_robot_is_skateboarding_in_a_cyberpunk_city.gif style="width:100px; height:100px;""></td>
+    <td><img src="assets/md/A_robot_is_skateboarding_in_a_cyberpunk_city.gif" style="width:100px; height:100px;"></td>
     <td><img src="assets/skate/A_robot_is_skateboarding_in_a_cyberpunk_city_front_view.gif"></td>
     <td><img src="assets/ori16frames/ship-sailing.gif"></td>
     <td><img src="assets/md/island.gif" style="width:100px; height:100px;"></td>
