@@ -197,12 +197,12 @@
     <td style="text-align:center;"><b>Ours</b></td>
   </tr>
   <tr>
-    <td style="text-align:center;"><img src="assets/golf/output.gif" style="max-width:100px;"></td>
-    <td style="text-align:center;"><img src="assets/md/monkey.gif" style="max-width:100px;"></td>
-    <td style="text-align:center;"><img src="assets/golf/A_monkey_is_playing_golf_on_a_field_full_of_flowers.gif" style="max-width:100px;"></td>
-    <td style="text-align:center;"><img src="assets/ori16frames/sharks-swimming.gif" style="max-width:100px;"></td>
-    <td style="text-align:center;"><img src="assets/md/Two_sea_dragons_swim_in_the_blue_ocean_on_a_coral_reef_0_300.gif" style="max-width:100px;"></td>
-    <td style="text-align:center;"><img src="assets/oneshot/sea-dragon.gif" style="max-width:100px;"></td>
+    <td style="text-align:center;"><img src="assets/golf/output.gif"></td>
+    <td style="text-align:center;"><img src="assets/md/monkey.gif"></td>
+    <td style="text-align:center;"><img src="assets/golf/A_monkey_is_playing_golf_on_a_field_full_of_flowers.gif"></td>
+    <td style="text-align:center;"><img src="assets/ori16frames/sharks-swimming.gif"></td>
+    <td style="text-align:center;"><img src="assets/md/Two_sea_dragons_swim_in_the_blue_ocean_on_a_coral_reef_0_300.gif"></td>
+    <td style="text-align:center;"><img src="assets/oneshot/sea-dragon.gif"></td>
   </tr>
   <tr>
     <td style="text-align:center; color:gray;">"A person is walking."</td>
@@ -224,12 +224,12 @@
     <td style="text-align:center;"><b>Ours</b></td>
   </tr>
   <tr>
-    <td style="text-align:center;"><img src="assets/skate/output.gif" style="max-width:100px;"></td>
-    <td style="text-align:center;"><img src="assets/md/A_robot_is_skateboarding_in_a_cyberpunk_city.gif" style="max-width:100px;"></td>
-    <td style="text-align:center;"><img src="assets/skate/A_robot_is_skateboarding_in_a_cyberpunk_city_front_view.gif" style="max-width:100px;"></td>
-    <td style="text-align:center;"><img src="assets/ori16frames/ship-sailing.gif" style="max-width:100px;"></td>
-    <td style="text-align:center;"><img src="assets/md/island.gif" style="max-width:100px;"></td>
-    <td style="text-align:center;"><img src="assets/oneshot/island.gif" style="max-width:100px;"></td>
+    <td style="text-align:center;"><img src="assets/skate/output.gif"></td>
+    <td style="text-align:center;"><img src="assets/md/A_robot_is_skateboarding_in_a_cyberpunk_city.gif"></td>
+    <td style="text-align:center;"><img src="assets/skate/A_robot_is_skateboarding_in_a_cyberpunk_city_front_view.gif"></td>
+    <td style="text-align:center;"><img src="assets/ori16frames/ship-sailing.gif"></td>
+    <td style="text-align:center;"><img src="assets/md/island.gif"></td>
+    <td style="text-align:center;"><img src="assets/oneshot/island.gif"></td>
   </tr>
   <tr>
     <td style="text-align:center; color:gray;">"A person is walking."</td>
@@ -242,12 +242,12 @@
 
 
   <tr>
-    <td style="text-align:center;"><img src="assets/walk/output.gif" style="max-width:100px;"></td>
-    <td style="text-align:center;"><img src="assets/md/walk.gif" style="max-width:100px;"></td>
-    <td style="text-align:center;"><img src="assets/walk/A_teddy_bear_is_walking_in_Times_Square_New_York.gif" style="max-width:100px;"></td>
-    <td style="text-align:center;"><img src="assets/ori16frames/eating-pizza.gif" style="max-width:100px;"></td>
-    <td style="text-align:center;"><img src="assets/md/eatting-pizza.gif" style="max-width:100px;"></td>
-    <td style="text-align:center;"><img src="assets/oneshot/A_woman_is_eating_a_sandwich_with_various_toppings.gif" style="max-width:100px;"></td>
+    <td style="text-align:center;"><img src="assets/walk/output.gif"></td>
+    <td style="text-align:center;"><img src="assets/md/walk.gif"></td>
+    <td style="text-align:center;"><img src="assets/walk/A_teddy_bear_is_walking_in_Times_Square_New_York.gif"></td>
+    <td style="text-align:center;"><img src="assets/ori16frames/eating-pizza.gif"></td>
+    <td style="text-align:center;"><img src="assets/md/eatting-pizza.gif"></td>
+    <td style="text-align:center;"><img src="assets/oneshot/A_woman_is_eating_a_sandwich_with_various_toppings.gif"></td>
   </tr>
   <tr>
     <td style="text-align:center; color:gray;">"A person is walking."</td>
