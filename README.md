@@ -205,7 +205,7 @@
     <td style="text-align:center; width:16.6%;" colspan="1"><b>Ours</b></td>
   </tr>
   <tr>
-    <td><img src="assets/golf/output.gif" style="max-width:90px"></td>
+    <td><img src="assets/golf/output.gif" ></td>
     <td><img src="assets/md/monkey.gif"></td>
     <td><img src="assets/golf/A_monkey_is_playing_golf_on_a_field_full_of_flowers.gif"></td>
     <td><img width=100% src="assets/ori16frames/sharks-swimming.gif"></td>
@@ -233,7 +233,7 @@
     <td style="text-align:center; width:16.6%;"><b>Ours</b></td>
   </tr>
   <tr>
-    <td><img src="assets/skate/output.gif" style="max-width:90px"></td>
+    <td><img src="assets/skate/output.gif" ></td>
     <td><img src="assets/md/A_robot_is_skateboarding_in_a_cyberpunk_city.gif"></td>
     <td><img src="assets/skate/A_robot_is_skateboarding_in_a_cyberpunk_city_front_view.gif"></td>
     <td><img src="assets/ori16frames/ship-sailing.gif"></td>
@@ -251,7 +251,7 @@
 
 
   <tr>
-    <td><img src="assets/walk/output.gif" style="max-width:90px"></td>
+    <td><img src="assets/walk/output.gif" ></td>
     <td><img src="assets/md/walk.gif"></td>
     <td><img src="assets/walk/A_teddy_bear_is_walking_in_Times_Square_New_York.gif"></td>
     <td><img src="assets/ori16frames/eating-pizza.gif"></td>
