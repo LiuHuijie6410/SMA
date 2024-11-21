@@ -186,86 +186,81 @@
 
 
 ## Comparisions to Baseline
-<table class="center"> 
 
 <table style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <tr>
-    <td style="text-align:center; width:16%;"><b>Reference Videos</b></td>
-    <td style="text-align:center; width:17%;"><b>MotionDirector[1]</b></td>
-    <td style="text-align:center; width:16%;"><b>Ours</b></td>
-    <td style="text-align:center; width:16%;"><b>Reference Videos</b></td>
-    <td style="text-align:center; width:17%;"><b>MotionDirector[1]</b></td>
-    <td style="text-align:center; width:16%;"><b>Ours</b></td>
+    <td style="text-align:center; width:16.6%;"><b>Reference Videos</b></td>
+    <td style="text-align:center; width:16.6%;"><b>Baseline[1]</b></td>
+    <td style="text-align:center; width:16.6%;"><b>Ours</b></td>
+    <td style="text-align:center; width:16.6%;"><b>Reference Videos</b></td>
+    <td style="text-align:center; width:16.6%;"><b>Baseline[1]</b></td>
+    <td style="text-align:center; width:16.6%;"><b>Ours</b></td>
   </tr>
   <tr>
-    <td style="text-align:center; width:16%;"><img src="assets/golf/output.gif" style="width:100%; max-width:120px;"></td>
-    <td style="text-align:center; width:16%;"><img src="assets/md/monkey.gif" style="width:100%; max-width:120px;"></td>
-    <td style="text-align:center; width:16%;"><img src="assets/golf/A_monkey_is_playing_golf_on_a_field_full_of_flowers.gif" style="width:100%; max-width:120px;"></td>
-    <td style="text-align:center; width:16%;"><img src="assets/ori16frames/sharks-swimming.gif" style="width:100%; max-width:120px;"></td>
-    <td style="text-align:center; width:16%;"><img src="assets/md/Two_sea_dragons_swim_in_the_blue_ocean_on_a_coral_reef_0_300.gif" style="width:100%; max-width:120px;"></td>
-    <td style="text-align:center; width:16%;"><img src="assets/oneshot/sea-dragon.gif" style="width:100%; max-width:120px;"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/golf/output.gif" style="width:100%; max-width:120px;"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/md/monkey.gif" style="width:100%; max-width:120px;"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/golf/A_monkey_is_playing_golf_on_a_field_full_of_flowers.gif" style="width:100%; max-width:120px;"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/ori16frames/sharks-swimming.gif" style="width:100%; max-width:120px;"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/md/Two_sea_dragons_swim_in_the_blue_ocean_on_a_coral_reef_0_300.gif" style="width:100%; max-width:120px;"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/oneshot/sea-dragon.gif" style="width:100%; max-width:120px;"></td>
   </tr>
   <tr>
-    <td style="text-align:center; width:16%; color:gray;">"A person is walking."</td>
-    <td style="text-align:center; width:16%;">"A teddy bear is walking in Times Square New York."</td>
-    <td style="text-align:center; width:16%;">"A teddy bear is walking in Times Square New York."</td>
-    <td style="text-align:center; width:16%; color:gray;">"A person is walking."</td>
-    <td style="text-align:center; width:16%;">"A teddy bear is walking in Times Square New York."</td>
-    <td style="text-align:center; width:16%;">"A teddy bear is walking in Times Square New York."</td>
-  </tr>
-
-
-
-  <tr>
-    <td style="text-align:center; width:16%;"><b>Reference Videos</b></td>
-    <td style="text-align:center; width:17%;"><b>MotionDirector[1]</b></td>
-    <td style="text-align:center; width:16%;"><b>Ours</b></td>
-    <td style="text-align:center; width:16%;"><b>Reference Videos</b></td>
-    <td style="text-align:center; width:17%;"><b>MotionDirector[1]</b></td>
-    <td style="text-align:center; width:16%;"><b>Ours</b></td>
-  </tr>
-  <tr>
-    <td style="text-align:center; width:16%;"><img src="assets/skate/output.gif" style="width:100%; max-width:120px;"></td>
-    <td style="text-align:center; width:16%;"><img src="assets/md/A_robot_is_skateboarding_in_a_cyberpunk_city.gif" style="width:100%; max-width:120px;"></td>
-    <td style="text-align:center; width:16%;"><img src="assets/skate/A_robot_is_skateboarding_in_a_cyberpunk_city_front_view.gif" style="width:100%; max-width:120px;"></td>
-    <td style="text-align:center; width:16%;"><img src="assets/ori16frames/ship-sailing.gif" style="width:100%; max-width:120px;"></td>
-    <td style="text-align:center; width:16%;"><img src="assets/md/island.gif" style="width:100%; max-width:120px;"></td>
-    <td style="text-align:center; width:16%;"><img src="assets/oneshot/island.gif" style="width:100%; max-width:120px;"></td>
-  </tr>
-  <tr>
-    <td style="text-align:center; width:16%; color:gray;">"A person is walking."</td>
-    <td style="text-align:center; width:16%;">"A teddy bear is walking in Times Square New York."</td>
-    <td style="text-align:center; width:16%;">"A teddy bear is walking in Times Square New York."</td>
-    <td style="text-align:center; width:16%; color:gray;">"A person is walking."</td>
-    <td style="text-align:center; width:16%;">"A teddy bear is walking in Times Square New York."</td>
-    <td style="text-align:center; width:16%;">"A teddy bear is walking in Times Square New York."</td>
+    <td style="text-align:center; width:16.6%; color:gray;">"A person is walking."</td>
+    <td style="text-align:center; width:16.6%;">"A teddy bear is walking in Times Square New York."</td>
+    <td style="text-align:center; width:16.6%;">"A teddy bear is walking in Times Square New York."</td>
+    <td style="text-align:center; width:16.6%; color:gray;">"A person is walking."</td>
+    <td style="text-align:center; width:16.6%;">"A teddy bear is walking in Times Square New York."</td>
+    <td style="text-align:center; width:16.6%;">"A teddy bear is walking in Times Square New York."</td>
   </tr>
 
 
+
   <tr>
-    <td style="text-align:center; width:16%;"><img src="assets/walk/output.gif" style="width:100%; max-width:120px;"></td>
-    <td style="text-align:center; width:16%;"><img src="assets/md/walk.gif" style="width:100%; max-width:120px;"></td>
-    <td style="text-align:center; width:16%;"><img src="assets/walk/A_teddy_bear_is_walking_in_Times_Square_New_York.gif" style="width:100%; max-width:120px;"></td>
-    <td style="text-align:center; width:16%;"><img src="assets/ori16frames/eating-pizza.gif" style="width:100%; max-width:120px;"></td>
-    <td style="text-align:center; width:16%;"><img src="assets/md/eatting-pizza.gif" style="width:100%; max-width:120px;"></td>
-    <td style="text-align:center; width:16%;"><img src="assets/oneshot/A_woman_is_eating_a_sandwich_with_various_toppings.gif" style="width:100%; max-width:120px;"></td>
+    <td style="text-align:center; width:16.6%;"><b>Reference Videos</b></td>
+    <td style="text-align:center; width:16.6%;"><b>Baseline[1]</b></td>
+    <td style="text-align:center; width:16.6%;"><b>Ours</b></td>
+    <td style="text-align:center; width:16.6%;"><b>Reference Videos</b></td>
+    <td style="text-align:center; width:16.6%;"><b>Baseline[1]</b></td>
+    <td style="text-align:center; width:16.6%;"><b>Ours</b></td>
   </tr>
   <tr>
-    <td style="text-align:center; width:16%; color:gray;">"A person is walking."</td>
-    <td style="text-align:center; width:16%;">"A teddy bear is walking in Times Square New York."</td>
-    <td style="text-align:center; width:16%;">"A teddy bear is walking in Times Square New York."</td>
-    <td style="text-align:center; width:16%; color:gray;">"A person is walking."</td>
-    <td style="text-align:center; width:16%;">"A teddy bear is walking in Times Square New York."</td>
-    <td style="text-align:center; width:16%;">"A teddy bear is walking in Times Square New York."</td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/skate/output.gif" style="width:100%; max-width:120px;"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/md/A_robot_is_skateboarding_in_a_cyberpunk_city.gif" style="width:100%; max-width:120px;"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/skate/A_robot_is_skateboarding_in_a_cyberpunk_city_front_view.gif" style="width:100%; max-width:120px;"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/ori16frames/ship-sailing.gif" style="width:100%; max-width:120px;"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/md/island.gif" style="width:100%; max-width:120px;"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/oneshot/island.gif" style="width:100%; max-width:120px;"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; width:16.6%; color:gray;">"A person is walking."</td>
+    <td style="text-align:center; width:16.6%;">"A teddy bear is walking in Times Square New York."</td>
+    <td style="text-align:center; width:16.6%;">"A teddy bear is walking in Times Square New York."</td>
+    <td style="text-align:center; width:16.6%; color:gray;">"A person is walking."</td>
+    <td style="text-align:center; width:16.6%;">"A teddy bear is walking in Times Square New York."</td>
+    <td style="text-align:center; width:16.6%;">"A teddy bear is walking in Times Square New York."</td>
+  </tr>
+
+
+  <tr>
+    <td style="text-align:center; width:16.6%;"><img src="assets/walk/output.gif" style="width:100%; max-width:120px;"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/md/walk.gif" style="width:100%; max-width:120px;"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/walk/A_teddy_bear_is_walking_in_Times_Square_New_York.gif" style="width:100%; max-width:120px;"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/ori16frames/eating-pizza.gif" style="width:100%; max-width:120px;"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/md/eatting-pizza.gif" style="width:100%; max-width:120px;"></td>
+    <td style="text-align:center; width:16.6%;"><img src="assets/oneshot/A_woman_is_eating_a_sandwich_with_various_toppings.gif" style="width:100%; max-width:120px;"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; width:16.6%; color:gray;">"A person is walking."</td>
+    <td style="text-align:center; width:16.6%;">"A teddy bear is walking in Times Square New York."</td>
+    <td style="text-align:center; width:16.6%;">"A teddy bear is walking in Times Square New York."</td>
+    <td style="text-align:center; width:16.6%; color:gray;">"A person is walking."</td>
+    <td style="text-align:center; width:16.6%;">"A teddy bear is walking in Times Square New York."</td>
+    <td style="text-align:center; width:16.6%;">"A teddy bear is walking in Times Square New York."</td>
   </tr>
 
 </table>
 
 
-
-
-
-</table>
 
 ## Reference
-[1] Rui Zhao, Yuchao Gu, Jay Zhangjie Wu, David Junhao Zhang, Jia-Wei Liu, Weijia Wu, Jussi Keppo, and Mike Zheng Shou. Motiondirector: Motion customization of text-to-video diffusion models. In European Conference on Computer Vision, pages. Springer, 2025.
+[1] Rui Zhao, Yuchao Gu, Jay Zhangjie Wu, David Junhao Zhang, Jia-Wei Liu, Weijia Wu, Jussi Keppo, and Mike Zheng Shou. Baseline: Motion customization of text-to-video diffusion models. In European Conference on Computer Vision, pages. Springer, 2025.
