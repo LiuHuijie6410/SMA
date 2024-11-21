@@ -187,7 +187,15 @@
 
 ## Comparisions to Baseline
 
-<table style="width:100%; border-collapse:collapse;">
+<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
+<colgroup>
+    <col style="width:16.6667%;">
+    <col style="width:16.6667%;">
+    <col style="width:16.6667%;">
+    <col style="width:16.6667%;">
+    <col style="width:16.6667%;">
+    <col style="width:16.6667%;">
+  </colgroup>
   <tr>
     <td style="text-align:center; width:16.6%;" colspan="1"><b>Reference</b></td>
     <td style="text-align:center; width:16.6%;" colspan="1"><b>Baseline[1]</b></td>
